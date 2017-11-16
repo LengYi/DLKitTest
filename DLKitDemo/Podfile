@@ -1,0 +1,7 @@
+source 'https://github.com/LengYi/SpecRepo.git'
+source 'https://github.com/CocoaPods/Specs.git'
+target 'DLKitDemo' do
+  pod 'SDWebImage', '~> 3.7.3'
+  pod 'DLKit'
+
+end
